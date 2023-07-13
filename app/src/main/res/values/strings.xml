@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+
+    <string name="image1_description">Cool parrot</string>
+    <string name="image2_description">Beach</string>
+    <string name="image3_description">Jungle</string>
+
+    <string name="image1_author">Image 1 author</string>
+    <string name="image2_author">Image 2 author</string>
+    <string name="image3_author">Image 3 author</string>
+
+    <string name="next_button">Next</string>
+    <string name="prev_button">Previous</string>
+</resources>
